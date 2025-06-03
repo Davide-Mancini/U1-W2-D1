@@ -66,6 +66,7 @@ console.log(numero5);
 let name1 = "john";
 let name2 = "John";
 let bool1 = name1 === name2;
+console.log(bool1);
 const name3 = name1.toLowerCase;
 const name4 = name2.toLowerCase;
 let bool2 = name3 === name4;
